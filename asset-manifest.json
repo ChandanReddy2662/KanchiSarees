@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KanchiSarees/static/css/main.196024d9.css",
-    "main.js": "/KanchiSarees/static/js/main.d9e0d907.js",
+    "main.css": "/KanchiSarees/static/css/main.2ab8f881.css",
+    "main.js": "/KanchiSarees/static/js/main.9a123d0c.js",
     "static/js/511.bab9b3b7.chunk.js": "/KanchiSarees/static/js/511.bab9b3b7.chunk.js",
     "static/media/saree8.jpg": "/KanchiSarees/static/media/saree8.7225c7cd9d9766b6e945.jpg",
     "static/media/saree1.jpg": "/KanchiSarees/static/media/saree1.beb1db5ed8e0b5ae2298.jpg",
@@ -17,12 +17,12 @@
     "static/media/Mainbg1.jpg": "/KanchiSarees/static/media/Mainbg1.7a422c91ff1fcf406d60.jpg",
     "static/media/logo.jpg": "/KanchiSarees/static/media/logo.994662934b8afa95c74d.jpg",
     "index.html": "/KanchiSarees/index.html",
-    "main.196024d9.css.map": "/KanchiSarees/static/css/main.196024d9.css.map",
-    "main.d9e0d907.js.map": "/KanchiSarees/static/js/main.d9e0d907.js.map",
+    "main.2ab8f881.css.map": "/KanchiSarees/static/css/main.2ab8f881.css.map",
+    "main.9a123d0c.js.map": "/KanchiSarees/static/js/main.9a123d0c.js.map",
     "511.bab9b3b7.chunk.js.map": "/KanchiSarees/static/js/511.bab9b3b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.196024d9.css",
-    "static/js/main.d9e0d907.js"
+    "static/css/main.2ab8f881.css",
+    "static/js/main.9a123d0c.js"
   ]
 }
